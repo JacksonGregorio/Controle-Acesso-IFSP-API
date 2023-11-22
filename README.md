@@ -5,6 +5,8 @@ application up and running.
 
 Things you may want to cover:
 
+- Link documentação: https://github.com/JacksonGregorio/Controle-Acesso-IFSP-API/blob/main/Documentação.pdf
+
 - Ruby version
 
 - System dependencies
